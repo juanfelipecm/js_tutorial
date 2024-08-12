@@ -1,0 +1,4 @@
+#!/opt/homebrew/bin/node
+
+
+console.log("Hello!!","Cómo vamos?")
